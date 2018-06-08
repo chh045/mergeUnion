@@ -13,7 +13,6 @@
 		D601909720CAF9F200A2C237 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D601909620CAF9F200A2C237 /* Assets.xcassets */; };
 		D601909A20CAF9F200A2C237 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D601909820CAF9F200A2C237 /* LaunchScreen.storyboard */; };
 		D60190A420CAFAB700A2C237 /* fileCreatedByOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60190A320CAFAB700A2C237 /* fileCreatedByOrigin.swift */; };
-		D60190B920CB04C100A2C237 /* fileCreatedByCopy1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60190B820CB04C100A2C237 /* fileCreatedByCopy1.swift */; };
 		D60190BB20CB04DF00A2C237 /* file2CreatedByOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60190BA20CB04DF00A2C237 /* file2CreatedByOrigin.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		D601909920CAF9F200A2C237 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D601909B20CAF9F200A2C237 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D60190A320CAFAB700A2C237 /* fileCreatedByOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fileCreatedByOrigin.swift; sourceTree = "<group>"; };
-		D60190B820CB04C100A2C237 /* fileCreatedByCopy1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fileCreatedByCopy1.swift; sourceTree = "<group>"; };
 		D60190BA20CB04DF00A2C237 /* file2CreatedByOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = file2CreatedByOrigin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,7 +65,6 @@
 				D601909820CAF9F200A2C237 /* LaunchScreen.storyboard */,
 				D601909B20CAF9F200A2C237 /* Info.plist */,
 				D60190A320CAFAB700A2C237 /* fileCreatedByOrigin.swift */,
-				D60190B820CB04C100A2C237 /* fileCreatedByCopy1.swift */,
 				D60190BA20CB04DF00A2C237 /* file2CreatedByOrigin.swift */,
 			);
 			path = mergeUnion;
@@ -146,7 +143,6 @@
 			files = (
 				D601909220CAF9EF00A2C237 /* ViewController.swift in Sources */,
 				D601909020CAF9EF00A2C237 /* AppDelegate.swift in Sources */,
-				D60190B920CB04C100A2C237 /* fileCreatedByCopy1.swift in Sources */,
 				D60190BB20CB04DF00A2C237 /* file2CreatedByOrigin.swift in Sources */,
 				D60190A420CAFAB700A2C237 /* fileCreatedByOrigin.swift in Sources */,
 			);
