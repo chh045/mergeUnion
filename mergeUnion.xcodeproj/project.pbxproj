@@ -20,6 +20,7 @@
 		D60190C620CB2FD300A2C237 /* file1CreatedbyCopy.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60190C520CB2FD300A2C237 /* file1CreatedbyCopy.swift */; };
 		D60190CA20CB310F00A2C237 /* file2CreatedByCopy.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60190C920CB310F00A2C237 /* file2CreatedByCopy.swift */; };
 		D60190D020CB323900A2C237 /* file3CreatedByCopy.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60190CF20CB323900A2C237 /* file3CreatedByCopy.swift */; };
+		D60190D420CB346700A2C237 /* file7CreatedByOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60190D320CB346700A2C237 /* file7CreatedByOrigin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D60190C520CB2FD300A2C237 /* file1CreatedbyCopy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = file1CreatedbyCopy.swift; sourceTree = "<group>"; };
 		D60190C920CB310F00A2C237 /* file2CreatedByCopy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = file2CreatedByCopy.swift; sourceTree = "<group>"; };
 		D60190CF20CB323900A2C237 /* file3CreatedByCopy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = file3CreatedByCopy.swift; sourceTree = "<group>"; };
+		D60190D320CB346700A2C237 /* file7CreatedByOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = file7CreatedByOrigin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				D60190C120CB2F3600A2C237 /* file5CreatedByOrigin.swift */,
 				D60190C920CB310F00A2C237 /* file2CreatedByCopy.swift */,
 				D60190CF20CB323900A2C237 /* file3CreatedByCopy.swift */,
+				D60190D320CB346700A2C237 /* file7CreatedByOrigin.swift */,
 			);
 			path = mergeUnion;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				D60190D020CB323900A2C237 /* file3CreatedByCopy.swift in Sources */,
 				D60190C220CB2F3600A2C237 /* file5CreatedByOrigin.swift in Sources */,
 				D60190BE20CB060600A2C237 /* file3CreatedByOrigin.swift in Sources */,
+				D60190D420CB346700A2C237 /* file7CreatedByOrigin.swift in Sources */,
 				D60190C020CB06EB00A2C237 /* file4CreatedByOrigin.swift in Sources */,
 				D60190CA20CB310F00A2C237 /* file2CreatedByCopy.swift in Sources */,
 				D601909220CAF9EF00A2C237 /* ViewController.swift in Sources */,
